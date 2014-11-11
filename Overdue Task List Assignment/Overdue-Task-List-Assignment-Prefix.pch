@@ -1,0 +1,22 @@
+//
+//  Overdue-Task-List-Assignment-Prefix.pch
+//  Overdue Task List Assignment
+//
+//  Created by Nicholas Wakeford on 11/8/14.
+//  Copyright (c) 2014 Nicholas Henry Dean Wakeford. All rights reserved.
+//
+
+#ifndef Overdue_Task_List_Assignment_Overdue_Task_List_Assignment_Prefix_pch
+#define Overdue_Task_List_Assignment_Overdue_Task_List_Assignment_Prefix_pch
+
+#define TASK_TITLE @"tasktitle"
+#define TASK_DESCRIPTION @"taskdescription"
+#define TASK_DATE @"taskdate"
+#define TASK_COMPLETION @"taskcompletion"
+
+#define ADDED_TASK_OBJECTS @"addedtaskobjects"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
